@@ -6,7 +6,7 @@ TO DO LIST
 </h1>
 
 <ul>
-   <li>PLAN THE LAYOUT ON FIGMA</li>
+   <li><s>PLAN THE LAYOUT ON FIGMA</s></li>
    <li>START ON THE SKELETON</li>
    <li>MAKE IT LOOK BETTER USING REACT</li>
 </ul>
