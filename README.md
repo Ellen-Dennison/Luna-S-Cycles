@@ -1,6 +1,8 @@
 # Luna-S-Cycles
 An interface that I will use to store all the projects that I will create this year 
+<br>
 <a href="https://www.figma.com/design/axDaXqXM1A04hazDMUNpCx/LUNA?node-id=0-1&t=5X4RQWk1hInwauIG-1">LINK TO THE FIGMA</a>
+<hr>
 
 <h1>
 TO DO LIST
@@ -11,6 +13,10 @@ TO DO LIST
    <li>CODING*</li>
 </ul>
 
+<hr>
+
 <footer>
-*I do not know an ounce of anything
+   <small>
+   *I do not know an ounce of anything
+   </small>
 </footer>
